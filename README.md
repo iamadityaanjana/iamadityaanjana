@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/iamadityaanjana" target="blank"><img src="https://img.shields.io/twitter/follow/iamadityaanjana?logo=twitter&style=for-the-badge" alt="iamadityaanjana" /></a> </p>
 
-- 🔭 I’m currently working on **Real time collaborative editor and notetaking app**
+- 🔭 I’m currently working on **Smart Contracts**
 
-- 🌱 I’m currently learning **Machine Learning , Web developement**
+- 🌱 I’m currently learning **Machine Learning , Web3**
 
 - 👯 I’m looking to collaborate on **Innovative ideas**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **hello@adityaanjana.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hI1HZ5iOJVOrVaHPBuGsigIgIprFq0E5/view?usp=sharing](https://drive.google.com/file/d/1hI1HZ5iOJVOrVaHPBuGsigIgIprFq0E5/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
