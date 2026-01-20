@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Anjana</h1>
+ <h1 align="center">Hi 👋, I'm Aditya Anjana</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamadityaanjana&label=Profile%20views&color=0e75b6&style=flat" alt="iamadityaanjana" /> </p>
@@ -7,15 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/iamadityaanjana" target="blank"><img src="https://img.shields.io/twitter/follow/iamadityaanjana?logo=twitter&style=for-the-badge" alt="iamadityaanjana" /></a> </p>
 
-- 🔭 I’m currently working on **Smart Contracts**
+- 🔭 I’m currently working on **quite a few projects**
 
-- 🌱 I’m currently learning **Machine Learning , Web3**
+- 🌱 I’m currently learning **iOS Dev**
 
 - 👯 I’m looking to collaborate on **Innovative ideas**
 
 - 👨‍💻 All of my projects are available at [adityaanjana.in](adityaanjana.in)
 
-- 📝 I regularly write articles on [adityaanjana.in/blog.html](adityaanjana.in/blog.html)
 
 - 📫 How to reach me **hello@adityaanjana.in**
 
